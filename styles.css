@@ -1,0 +1,31 @@
+body{background-color:#852A1F}
+{margin: 50px;}
+{font-family: "Trebuchet Ms";}
+h1{color: #F13A12}
+  {margin: 20px auto;}
+  {width: 400px;}
+  {text-align: center;}
+  {font-size: 6;}
+  {font-family: "courier New"; 
+  /*border: 1px solid #000;*/}
+h2{border: 10px solid;#FC0000;
+	background-color: #9C42EC;
+	padding: 30px;
+   text-align: center;
+   width: 400px;
+   margin: 0 auto;}
+a{color:  #FF02E8;
+ text-decoration: none;}
+ {font-size: 23em;}
+p.attritubtion{font-size: 0.2em;
+  margin: 0 auto;
+   width: 400px;
+  text-align: center;
+  margin-top: 1em}
+a.begginning{
+ border-radius: 12px;
+  padding: 0.5em; 
+ font-size: 1em; 
+  font-style: oblique;
+ background-color: #3931E0;
+ margin-top: 8px;
